@@ -1,5 +1,13 @@
 # SERS — Checkpoint 1 do 2º semestre
 
+| Nome             |     RM |
+| ----------------   | -----: |
+| Davi               | 569487 |
+| Gabriel           | 568910 |
+| Aragão            | 570529 |
+| André              | 571691 |
+| Jun                 | 572079 |
+
 Projeto acadêmico de análise exploratória de dados energéticos. O trabalho reúne tratamento de dados, cálculo de indicadores, identificação de períodos de alta demanda ou geração, visualizações e elaboração de relatórios.
 
 ## Sobre a entrega
